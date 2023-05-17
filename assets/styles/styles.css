@@ -87,7 +87,7 @@ body {
 
 .wrapper {
     padding-top: 30px;
-    background-image: url("/assets/images/first-screen-image.png");
+    background-image: url("../../assets/images/first-screen-image.png");
     background-repeat: no-repeat;
     background-size: 100%;
     z-index: 5;
@@ -356,7 +356,7 @@ span {
 
 .quote-inner {
     position: relative;
-    background-image: url("/assets/images/quote-background.png");
+    background-image: url("../../assets/images/quote-background.png");
     background-repeat: no-repeat;
     background-position: center;
     padding: 100px 300px 100px 160px;
@@ -391,7 +391,7 @@ span {
 
 .video-inner {
     position: relative;
-    background-image: url("/assets/images/tablet-mockup.png");
+    background-image: url("../../assets/images/tablet-mockup.png");
     background-repeat: no-repeat;
     background-position: center;
     height: 970px;
@@ -492,19 +492,19 @@ span {
 }
 
 .reviews-inner__list--item:first-child {
-    background-image: url("/assets/images/review1.png");
+    background-image: url("../../assets/images/review1.png");
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .reviews-inner__list--item:nth-child(2) {
-    background-image: url("/assets/images/review2.png");
+    background-image: url("../../assets/images/review2.png");
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .reviews-inner__list--item:nth-child(3) {
-    background-image: url("/assets/images/review3.png");
+    background-image: url("../../assets/images/review3.png");
     background-repeat: no-repeat;
     background-position: center;
 }
